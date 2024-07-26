@@ -11,7 +11,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href=" https://github.com/Andreacbsilva/prompts-recipe-to-create-a-ebook/blob/feat/community/Andreacbsilva/output/ebook%20-%20Introdu%C3%A7%C3%A3o%20ao%20Phyton%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Andreacbsilva/prompts-recipe-to-create-a-ebook/blob/feat/community/Andreacbsilva/output/ebook%20-%20Introdu%C3%A7%C3%A3o%20ao%20Phyton%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
